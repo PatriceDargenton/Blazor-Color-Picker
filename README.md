@@ -3,7 +3,9 @@
 
 Sometimes HTML5 colorpicker doesn't suit me for an application. I prefer to offer the user a predefined color palette
 
-DEMO : https://tossnet.github.io/Blazor-Color-Picker/
+DEMO : https://patricedargenton.github.io/Blazor-Color-Picker
+
+DEMO : https://tossnet.github.io/Blazor-Color-Picker
 
 Opens a palette with the Material colors
 
